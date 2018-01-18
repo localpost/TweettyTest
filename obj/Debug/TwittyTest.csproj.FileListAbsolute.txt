@@ -1,0 +1,10 @@
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\bin\Debug\TwittyTest.exe.config
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\bin\Debug\TwittyTest.exe
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\bin\Debug\TwittyTest.pdb
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\obj\Debug\TwittyTest.csprojResolveAssemblyReference.cache
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\obj\Debug\TwittyTest.exe
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\obj\Debug\TwittyTest.pdb
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\bin\Debug\Hammock.ClientProfile.dll
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\bin\Debug\TweetSharp.dll
+c:\users\пвд\documents\visual studio 2012\Projects\TwittyTest\TwittyTest\bin\Debug\Newtonsoft.Json.xml
